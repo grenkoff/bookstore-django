@@ -11,6 +11,7 @@ logs/
 *.pid
 *.toc
 *.out
+db.sqlite3
 celerybeat-schedule                                                                     
 .ipynb_checkpoints
 .venv/
