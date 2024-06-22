@@ -15,8 +15,8 @@ db.sqlite3
 celerybeat-schedule                                                                     
 .ipynb_checkpoints
 .venv/
-.env/
 venv/
+.env/
 env/
 .env
 *.env
